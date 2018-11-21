@@ -1,1 +1,0 @@
-{"version":3,"file":"static/webpack/static/development/pages/index.js.006a6f225bf2c11374c5.hot-update.js","sources":["webpack:///./pages/index.js"],"sourcesContent":["const Home = props => (\n  <div>HEY!</div>\n);\n\nexport default Home;"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AADA;AACA;AAGA;;;;;;;;;;;;;;;;;;;;;;;A","sourceRoot":""}
