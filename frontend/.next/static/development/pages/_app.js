@@ -152,7 +152,7 @@ var Meta = function Meta() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
-    charset: "utf-8",
+    charSet: "utf-8",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
